@@ -1,2 +1,1 @@
-# Whack-A-Mole
-Java igra
+Desktop version of the game Whack-a-mole, implemented using Java and Swing.
